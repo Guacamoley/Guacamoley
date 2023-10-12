@@ -31,8 +31,9 @@ Passionate about technology, machine learning, a recent graduate from Metro Stat
   [![Website (WIP)](https://img.shields.io/badge/Website-Visit%20My%20Site-blue?logo=google-chrome)](https://guacamoley.github.io/eportfolio-website/)
 
 ### 📈 GitHub Stats
-
+![](https://komarev.com/ghpvc/?username=guacamoley)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=guacamoley&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guacamoley&layout=compact)
 
 ### 🎉 Fun Fact
 
