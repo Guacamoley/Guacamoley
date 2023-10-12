@@ -32,8 +32,10 @@ Passionate about technology, machine learning, a recent graduate from Metro Stat
 
 ### 📈 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=guacamoley)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=guacamoley&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guacamoley&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guacamoley&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎉 Fun Fact
 
