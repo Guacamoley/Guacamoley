@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Michael!</h1>
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/77702012?v=4" alt="My Face" width="200" height="200">
+    ![My Bearded Dragon Stubby!](stubby.jpg)
 </p>
 
 Passionate about technology, machine learning, a recent graduate from Metro State University. I'm on a thrilling journey to become a software engineer, eager to continue on this lifelong journey of learning.
