@@ -10,7 +10,6 @@ Passionate about technology, machine learning, a recent graduate from Metro Stat
 - 🔭 I’m currently working on the Full Stack JavaScript course by The Odin Project - an awesome free course for anybody interested in picking up some new skills!
 - 🌱 I’m currently learning Javascript and React.
 - 💬 Ask me about Java, Python, C, C++, HTML, CSS.
-- 📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin)](https://www.linkedin.com/in/michaelha3/)
 
 ### 🔧 Technologies & Tools
 
