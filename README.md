@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Michael!</h1>
 <p align="center">
-  <img src="stubby.jpg" alt="My bearded dragon Stubby!" style="border-radius: 20px; width: 300px; height: auto;">
+  <img src="stubby.jpg" alt="My bearded dragon Stubby!" style="border-radius: 20px; width: auto; height: 300px;">
 </p>
 
 Passionate about technology, machine learning, a recent graduate from Metro State University. I'm on a thrilling journey to become a software engineer, eager to continue on this lifelong journey of learning.
